@@ -9,7 +9,7 @@ Programming language is Java with heavy use of Spring Boot, Docker and Kubernete
 
 This repository focuses mostly on cross-cutting, infrastructure and deployment concerns. 
 
-For the domain and application concepts see the [original repository](https://github.com/ttulka/ddd-example-ecommerce).
+For the domain and application concepts see the [original repository](https://github.com/ramonaoldf/ddd-example-ecommerce).
 
 ## Monolith vs Microservices
 
